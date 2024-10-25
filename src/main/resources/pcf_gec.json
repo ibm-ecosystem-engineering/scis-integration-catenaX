@@ -1,0 +1,92 @@
+[{
+    "uuid": "9405ca1e-07d1-4d15-a077-428ebd926e53",
+    "requestId": "9405ca1e-07d1-4d15-a077-428ebd926e53",
+    "bpn": "BPNL000000000NPH",
+    "message": "Requesting PCF for bpn BPNL000000000NPH and Material-Number JX7T-14F679-CA",
+    "created": "2024-10-09T14: 33: 17.797Z",
+    "updated": "2024-10-09T14: 35: 57.962Z",
+    "pcfAvailable": "True",
+    "status": "accepted",
+    "pcf": {
+        "id": "e8ef635c-e4ff-4aee-be2d-3d6b4d7aebe0",
+        "pcf": {
+            "declaredUnit": "piece",
+            "dlucGhgEmissions": "None",
+            "geographyCountry": "SG",
+            "primaryDataShare": 0.01,
+            "dataQualityRating": {
+                "temporalDQR": "None",
+                "reliabilityDQR": "None",
+                "completenessDQR": "None",
+                "coveragePercent": "None",
+                "geographicalDQR": "None",
+                "technologicalDQR": "None"
+            },
+            "carbonContentTotal": "None",
+            "fossilGhgEmissions": 1,
+            "referencePeriodEnd": "2025-09-11T23: 59: 59.999Z",
+            "aircraftGhgEmissions": "None",
+            "pcfExcludingBiogenic": 24.3,
+            "pcfIncludingBiogenic": "None",
+            "referencePeriodStart": "2024-09-11T00: 00: 00.000Z",
+            "unitaryProductAmount": 1000,
+            "carbonContentBiogenic": "None",
+            "extTFS_luGhgEmissions": "None",
+            "biogenicCarbonWithdrawal": "None",
+            "exemptedEmissionsPercent": 0.98,
+            "crossSectoralStandardsUsed": [
+                {
+                    "crossSectoralStandard": "GHG Protocol Product standard"
+                }
+            ],
+            "geographyRegionOrSubregion": "Asia",
+            "productMassPerDeclaredUnit": 1000,
+            "geographyCountrySubdivision": "None",
+            "boundaryProcessesDescription": "None",
+            "exemptedEmissionsDescription": "None",
+            "extWBCSD_fossilCarbonContent": 9,
+            "productOrSectorSpecificRules": [],
+            "extWBCSD_packagingGhgEmissions": "None",
+            "secondaryEmissionFactorSources": [],
+            "extWBCSD_characterizationFactors": "AR6",
+            "extTFS_allocationWasteIncineration": "cut-off",
+            "biogenicCarbonEmissionsOtherThanCO2": "None",
+            "distributionStageFossilGhgEmissions": "None",
+            "extWBCSD_allocationRulesDescription": "None",
+            "extWBCSD_packagingEmissionsIncluded": "False",
+            "distributionStageAircraftGhgEmissions": "None",
+            "distributionStagePcfExcludingBiogenic": "None",
+            "distributionStagePcfIncludingBiogenic": "None",
+            "extTFS_distributionStageLuGhgEmissions": "None",
+            "extTFS_distributionStageDlucGhgEmissions": "None",
+            "distributionStageBiogenicCarbonWithdrawal": "None",
+            "distributionStageBiogenicCarbonEmissionsOtherThanCO2": "None"
+        },
+        "comment": "None",
+        "created": "2024-10-09T19: 57: 44.424Z",
+        "version": 1,
+        "companyIds": [
+            "urn:bpn:id:BPNL000000000NPH"
+        ],
+        "productIds": [
+            "urn:uuid:materialNumber:JX7T-14F679-CA",
+            "urn:pact:product:customcode:vendor-assigned:JX7T-14F679-CA"
+        ],
+        "companyName": "Flex",
+        "productName": "M305 - MODULE ELEC BODY - BodyPro MaxLink Unit",
+        "specVersion": "1.0",
+        "partialFullPcf": "Cradle-to-gate",
+        "precedingPfIds": [],
+        "extWBCSD_pfStatus": "Active",
+        "pcfLegalStatement": "None",
+        "validityPeriodEnd": "2025-10-09T19: 57: 44.424Z",
+        "productDescription": "M305 - MODULE ELEC BODY - BodyPro MaxLink Unit",
+        "validityPeriodStart": "2024-10-09T19: 57: 44.424Z",
+        "extWBCSD_productCodeCpc": "011-99000"
+    },
+    "resolution": "accepted",
+    "direction": "sent",
+    "materialNumber": "JX7T-14F679-CA",
+    "isUpdateRequest": "False"
+}
+]

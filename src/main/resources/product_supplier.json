@@ -1,0 +1,2094 @@
+[
+    {
+        "product": {
+            "partNumber": "JX7T-14B673-BB",
+            "description": "M305 - MODULE ELEC BODY - BodySync Elite Electronic Module"
+        },
+        "customAttributes": null,
+        "supplier": {
+            "customAttributes": {
+                "BPNString": "BPNL000000000OOS"
+            }
+        }
+    },
+    {
+        "product": {
+            "partNumber": "IND-7593",
+            "description": "Inductors - IND 2.0nH0.1nH600mA12500MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-3167",
+            "description": "Inductors - IND 1uH 20% 3.8A ISAT 0.042Ohm"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-8458",
+            "description": "Inductors - IND 15nH 3% 250mA 2600MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-6878",
+            "description": "Inductors - IND 12nH 5% 250mA 2900MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-6739",
+            "description": "Inductors - IND 12nH 3% 250mA 2900MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-1554",
+            "description": "Inductors - IND 10uH +20%  0.1MHz 50V DC"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-9603",
+            "description": "Inductors - IND 10nH3%500mA0.19ohm 3300MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-8973",
+            "description": "Inductors - IND 1008 1.5uH20%3.3A0.060ohms"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-7550",
+            "description": "Inductors - IND 1.5nH0.1nH600mA15000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-6102",
+            "description": "Inductors - IND 1.2nH0.1nH750mA17000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-7447",
+            "description": "Inductors - IND 1.0nH0.1nH750mA17000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-8436",
+            "description": "Inductors - Ferrite0603 120OHMS-55Cto흮"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-7885",
+            "description": "Inductors - FERCHIP120OHM-100MHZ 0.5A 0402"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-8854",
+            "description": "Inductors - FerBead 220Ohms100MHz 2A 0603"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1415",
+            "description": "Capacitors - CAP 4.3pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-7697",
+            "description": "Capacitors - CAP 3.6pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-7773",
+            "description": "Capacitors - CAP 3.0pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1130",
+            "description": "Capacitors - CAP 22uF 0.2 6.3V 0603 X5R   "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-6971",
+            "description": "Capacitors - CAP 27pF 5% 25V 0603C0G      "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-3871",
+            "description": "Capacitors - CAP 22uF 0.2 16V 0805 X5R    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8554",
+            "description": "Capacitors - CAP 22000pF 10% 100V 0603 X7R"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-4449",
+            "description": "Capacitors - CAP 2.0pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-3185",
+            "description": "Capacitors - CAP 18pF 5% 25V 0603C0G      "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-3302",
+            "description": "Capacitors - CAP 15pF 1% 50V 0603C0G      "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-7487",
+            "description": "Capacitors - CAP 13pF 1% 50V 0603C0G      "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-6852",
+            "description": "Capacitors - CAP 12pF 1% 50V 0603C0G      "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8034",
+            "description": "Capacitors - CAP 10uF 10% 50V 1210 X7S 125C"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-6061",
+            "description": "Inductors - 2.2UH Inductor               "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-4822",
+            "description": "Capacitors - CAP  10000pF 10% 16V X7R 0402"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1851",
+            "description": "Capacitors - CAP 10uF 0.1 16V 0603 X5R    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-2313",
+            "description": "Capacitors - CAP MLCC X6S 4.7uF 10% 0603  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-1437",
+            "description": "Inductors - INDUCTOR CHIP 1.5uH 20% 50MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "FIL-6243",
+            "description": "Filters - 200uH Common Mode Filters    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-2765",
+            "description": "Capacitors - MLCC X7R 0.47uF 50V 10% 0805 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8726",
+            "description": "Capacitors - MLCC 4.7uF 10% 100V X7S 1210 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8104",
+            "description": "Capacitors - CAP MLCC X6S 22uF 20% 0805   "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8241",
+            "description": "Capacitors - CAP  X7R 10000pF 10% 10V 0201"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-2111",
+            "description": "Capacitors - CAP MLCC X6S 22uF 20% 0603   "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-2921",
+            "description": "Inductors - IND 4.7nH 3% 350mA4400MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8410",
+            "description": "Capacitors - CAP  X6S 1.0uF 10% 25V 0402  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "THR-3049",
+            "description": "Thermistors - NTC Therm 100K 1% AEC-Q200   "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-7149",
+            "description": "Inductors - IND 6.2nH 3% 300mA4000MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-1968",
+            "description": "Inductors - IND 8.2nH 3% 250mA3600MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1357",
+            "description": "Capacitors - CAP  0.47uF 10% 16V X6S 0402 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-3671",
+            "description": "Inductors - IND 6.8nH 3% 300mA3900MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-6796",
+            "description": "Capacitors - CAP  3300pF 10% 50V X7R 0402 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-8447",
+            "description": "Inductors - IND 56nH 3%250mA0.82ohm 800MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-5663",
+            "description": "Capacitors - CAP  1000pF 10% 50V X7R 0402 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-7757",
+            "description": "Capacitors - CAP  0.22uF 10% 16V X7R 0402 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-2617",
+            "description": "Inductors - IND 5.6nH 5% 350mA4000MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-8803",
+            "description": "Inductors - IND 3.3nH 0.1nH450mA8000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-7166",
+            "description": "Inductors - IND 5.6nH 3% 350mA4000MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-9150",
+            "description": "Capacitors - CAP MLCC X6S 4.7uF 20% 0402  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8130",
+            "description": "Capacitors - CAP 10pF 1% 50V 0603C0G      "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-4517",
+            "description": "Inductors - IND 5.1nH 5% 350mA4200MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-3195",
+            "description": "Capacitors - CAP MLCC X7R 1000pF 10% 0201 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8039",
+            "description": "Capacitors - CAP MLCC X6S 4.7uF 20% 0603  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-3864",
+            "description": "Capacitors - CAP MLCC X6S 4.7uF 10% 0603  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-6523",
+            "description": "Inductors - IND 5.1nH 3% 350mA4200MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-5972",
+            "description": "Inductors - IND 39nH 3% 120mA 1500MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-5383",
+            "description": "Capacitors - CAP MLCC X7R 1.0uF 10% 0402  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-4828",
+            "description": "Inductors - IND 4.3nH 3% 350mA5300MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1348",
+            "description": "Capacitors - CAP MLCC X6S 0.47uF 10% 0402 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1987",
+            "description": "Capacitors - CAP MLCC X6S 2.2uF 10% 0402  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-2660",
+            "description": "Capacitors - CAP MLCC X6S 10uF 20% 0603   "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8251",
+            "description": "Capacitors - CAP MLCC X6S 2.2uF 10% 0402  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-6223",
+            "description": "Inductors - IND 4.0nH 0.1nH350mA5300MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-2661",
+            "description": "Capacitors - CAP 1000pF 10% 50V 0603 X7R  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-6181",
+            "description": "Capacitors - CAP MLCC X6S 1.0uF 10% 0402  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-6713",
+            "description": "Capacitors - CAP 10pF 2% 50V 0603C0G      "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-7931",
+            "description": "Capacitors - CAP 100pF 5% 25V 0603C0G     "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-2263",
+            "description": "Capacitors - CAP MLCC X6S 0.22uF  10% 0201"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-5001",
+            "description": "Capacitors - CAP MLCC X6S 1.0uF 10% 0603  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-7445",
+            "description": "Inductors - IND 3.2nH 0.1nH450mA8000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8588",
+            "description": "Capacitors - CAP MLCC X6S 0.33uF 10% 0402 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-4845",
+            "description": "Inductors - IND 24nH 3% 140mA 2000MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8522",
+            "description": "Capacitors - CAP 0.80pF 0.05pF 50V 0603"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-9438",
+            "description": "Capacitors - CAP MLCC X6S 0.10uF 10% 0201 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-8535",
+            "description": "Inductors - IND 3.0nH 0.1nH450mA9500MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-3658",
+            "description": "Capacitors - CAP MLCC X6S 0.10uF 10% 0201 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-4902",
+            "description": "Capacitors - CAP 1.8pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8747",
+            "description": "Capacitors - CAP MLCC X6S 0.10uF 10% 0201 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-5090",
+            "description": "Capacitors - CAP 1.0uF 10% 50V 0805 X7R   "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-1399",
+            "description": "Inductors - IND 22nH 3% 150mA 2200MHz    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1050",
+            "description": "Capacitors - CAP MLCC C0G 12pF 5% 0402    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8165",
+            "description": "Capacitors - CAP 1.0pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-9750",
+            "description": "Inductors - IND 2.7nH0.1nH500mA10000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1644",
+            "description": "Capacitors - CAP MLCC X6S 0.10uF 10% 0201 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-4796",
+            "description": "Capacitors - CAP MLCC C0G 470pF 5% 0402   "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-4715",
+            "description": "Capacitors - CAP 0.91pF 0.1pF 50V 0402 "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-5977",
+            "description": "Capacitors - CAP MLCC C0G 22pF 5% 0402    "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-4990",
+            "description": "Inductors - IND 2.6nH0.1nH500mA10000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-9878",
+            "description": "Inductors - IND 2.7nH0.2nH500mA10000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-6706",
+            "description": "Inductors - IND 2.5nH0.1nH500mA10000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-5506",
+            "description": "Capacitors - CAP MLCC 47pF 5% 50V C0G 0402"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8865",
+            "description": "Capacitors - CAP MLCC 33pF 2% 50V C0G 0402"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-2714",
+            "description": "Capacitors - CAP 8.2pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8191",
+            "description": "Capacitors - CAP 8.2pF +0.1pF 50V 0402 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-7600",
+            "description": "Inductors - IND 2.3nH0.1nH500mA10000MHz"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-5148",
+            "description": "Capacitors - CAP 0.50pF 0.05pF 50V 0603"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-8582",
+            "description": "Capacitors - CAP 0.50pF +0.1pF 50V 0603C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-5233",
+            "description": "Capacitors - CAP 0.30pF 0.05pF 50V 0603"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-9832",
+            "description": "Capacitors - CAP 7.5pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-3996",
+            "description": "Capacitors - CAP 6.8pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-3360",
+            "description": "Inductors - IND 2.2uH20%2.8A ISAT 0.084Ohm"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-4438",
+            "description": "Capacitors - CAP 0.10uF 10% 100V 0603 X7R "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-7654",
+            "description": "Capacitors - CAP 6.2pF +0.1pF 25V 0603 C0G"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "IND-6782",
+            "description": "Inductors - IND 2.2uH 20% 46mOhms AEC-Q200"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-6208",
+            "description": "Capacitors - CAP 4700pF 10% 100V 0603 X7R "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-4362",
+            "description": "Capacitors - CAP 0.10uF 0.1 25V 0603 X5R  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-1613",
+            "description": "Capacitors - CAP 0.10uF 0.1 16V 0603 X5R  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CAP-2071",
+            "description": "Capacitors - 1.0uF 6.3V 0201 X5R 20% AEC  "
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ENC-9910",
+            "description": "Enclosures - Quick Enclosure"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ENC-9913",
+            "description": "Enclosures - Advanced Enclosure"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ENC-9912",
+            "description": "Enclosures - Premium Enclosure"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ENC-9911",
+            "description": "Enclosures - Advanced Enclosure"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ENC-9909",
+            "description": "Enclosures - Smart Enclosure"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ENC-9908",
+            "description": "Enclosures - Advanced Enclosure"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ENC-9907",
+            "description": "Enclosures - FlexEnclosure"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ENC-9906",
+            "description": "Enclosures - Enclosure"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ECM-1001",
+            "description": "Control board - Main Control Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CPU-2026",
+            "description": "Processing units - Advanced Control Processor"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CPU-2025",
+            "description": "Processing units - Elite Processing Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CPU-2022",
+            "description": "Processing units - Smart Processing Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CPU-2023",
+            "description": "Processing units - Fast Processing Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CPU-2024",
+            "description": "Processing units - Advanced Processing Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CPU-2021",
+            "description": "Processing units - Advanced Processing Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CPU-2020",
+            "description": "Processing units - Central Processing Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CONN-7012",
+            "description": "Connect modules - Control Connector Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CONN-7011",
+            "description": "Connect modules - Elite Connector Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CONN-7010",
+            "description": "Connect modules - Connector Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CONN-7009",
+            "description": "Connect modules - Quick Connector Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CONN-7008",
+            "description": "Connect modules - Connector Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CONN-7007",
+            "description": "Connect modules - Connector Hub"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CONN-7006",
+            "description": "Connect modules - FlexConnector Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CONN-7005",
+            "description": "Connect modules - Connector Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "COM-3308",
+            "description": "Communication modules - High-Performance Comm."
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "COM-3307",
+            "description": "Communication modules - Elite Communication"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "COM-3306",
+            "description": "Communication modules - Advanced Communication"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "COM-3303",
+            "description": "Communication modules - Communication Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "COM-3305",
+            "description": "Communication modules - High-Speed Communication"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SPE-8001",
+            "description": "Hubs - SyncPro EliteModule"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "COM-3304",
+            "description": "Communication modules - Intelligent Communication"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SEN-6009",
+            "description": "Sensors - Sensor Integration"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "COM-3301",
+            "description": "Communication modules - Communication Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "COM-3302",
+            "description": "Communication modules - HyperCommunication Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ANT-7784",
+            "description": "Antennas - High-Performance Antenna"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ANT-7783",
+            "description": "Antennas - Premium Antenna Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SEN-6010",
+            "description": "Sensors - Premium Sensor Integration"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ANT-7782",
+            "description": "Antennas - Advanced Antenna Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SW-2225",
+            "description": "Firmware - Smart Firmware/Software"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "TCM-9001",
+            "description": "Communication modules - TechSync Control Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LX6A-7P238-AGH",
+            "description": "M320 - MODULES - ENG - AUX - QuickSync AuxLink Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SW-2224",
+            "description": "Firmware - Advanced Firmware/Software"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ANT-7781",
+            "description": "Antennas - Quick Antenna Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ANT-7780",
+            "description": "Antennas - Smart Antenna Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ANT-7779",
+            "description": "Antennas - High-Performance Antenna"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SW-2228",
+            "description": "Firmware - Premium Firmware/Software"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SW-2229",
+            "description": "Firmware - Advanced Firmware/Software"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LED-1116",
+            "description": "LEDs - Status Indicator LEDs"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SW-2223",
+            "description": "Firmware - FlexFirmware/Software"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LJ6T-14G532-NGD",
+            "description": "M314 - SYNC MODULES - TechSync Control Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SEN-6008",
+            "description": "Sensors - Fast Sensor Integration"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SW-2227",
+            "description": "Firmware - Advanced Firmware/Software"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SW-2226",
+            "description": "Firmware - Quick Firmware/Software"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SEN-6011",
+            "description": "Sensors - Adaptive Sensor Integration"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ANT-7778",
+            "description": "Antennas - FlexAntenna Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SEN-6007",
+            "description": "Sensors - SmartSensor Integration"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "ANT-7777",
+            "description": "Antennas - Antenna Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SEN-6004",
+            "description": "Sensors - Sensor Interface"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SW-2222",
+            "description": "Firmware - Firmware/Software"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SEN-6005",
+            "description": "Sensors - FlexSensor Interface"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PWR-8010",
+            "description": "Power supplies - Enhanced Power Supply"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PWR-8007",
+            "description": "Power supplies - Quick Power Supply"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SEN-6006",
+            "description": "Sensors - Sensor Integration Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MAN-1003",
+            "description": "Documentation - User Manual"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "F1FA-9D370-GA",
+            "description": "M320 - MODULES - ENG - AUX - AuxPro EliteEngine Hub"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LX6A-7P238-AFK",
+            "description": "M320 - MODULES - ENG - AUX - EngineGuard EliteAux Control"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PWR-8006",
+            "description": "Power supplies - Adaptive Power Supply"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LJ6T-14G532-NAD",
+            "description": "M314 - SYNC MODULES - SyncPro EliteModule"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MAN-1001",
+            "description": "Documentation - User Manual"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LX6A-9D370-BB",
+            "description": "M320 - MODULES - ENG - AUX - PowerSync ProAux Control"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LED-1113",
+            "description": "LEDs - Intelligent Status LEDs"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MAN-1002",
+            "description": "Documentation - User Manual"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LED-1117",
+            "description": "LEDs - Status Indicator LEDs"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "SBH-5001",
+            "description": "Hubs - SmartBody HyperControl Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "QAM-6001",
+            "description": "Hubs - QuickSync AuxLink Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PWR-8009",
+            "description": "Power supplies - High-Performance Power"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LED-1110",
+            "description": "LEDs - Status Indicator LEDs"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LED-1115",
+            "description": "LEDs - Status Indicator LEDs"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PWR-8005",
+            "description": "Power supplies - Dynamic Power Supply"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PFH-4001",
+            "description": "Communication modules - PowerFlex ProControl Hub"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PWR-8008",
+            "description": "Power supplies - Advanced Power Supply"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PCB-5559",
+            "description": "Printed circuit boards - Quick Printed Circuit Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LED-1112",
+            "description": "LEDs - Status Indicator LEDs"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LED-1114",
+            "description": "LEDs - Quick Status LEDs"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PCB-5561",
+            "description": "Printed circuit boards - Advanced Printed Circuit Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PWR-8003",
+            "description": "Power supplies - Power Supply Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "JX7T-14F679-CA",
+            "description": "M305 - MODULE ELEC BODY - BodyPro MaxLink Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LX6A-7P238-ACL",
+            "description": "M320 - MODULES - ENG - AUX - FlexDrive HyperModule"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PWR-8004",
+            "description": "Power supplies - PowerFlex Supply Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PCB-5560",
+            "description": "Printed circuit boards - Printed Circuit Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LED-1111",
+            "description": "LEDs - FlexStatus LEDs"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PCB-5562",
+            "description": "Printed circuit boards - Control Printed Circuit Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "KV6A-5H298-CF",
+            "description": "M320 - MODULES - ENG - AUX - PowerMate ProLink Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "JX61-12B533-AB",
+            "description": "M320 - MODULES - ENG - AUX - AuxPower ProEngine Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "I/O-5509",
+            "description": "I/O modules - Advanced Input/Output"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LJ6T-14F642-DC",
+            "description": "M305 - MODULE ELEC BODY - PowerPulse EliteControl Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "I/O-5508",
+            "description": "I/O modules - Advanced Input/Output"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "NX6A-12B565-CA",
+            "description": "M320 - MODULES - ENG - AUX - TurboFlex HyperAux Control"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "I/O-5507",
+            "description": "I/O modules - Input/Output Interface"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PCB-5558",
+            "description": "Printed circuit boards - SmartPrinted Circuit Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CJ5T-14F680-SA",
+            "description": "M305 - MODULE ELEC BODY - QuickSync HyperBody Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LU5T-15604-BJCE",
+            "description": "M313 - MODULE-BODY CONTROL - BodyControl ProLink Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "I/O-5506",
+            "description": "I/O modules - Rapid Input/Output Interface"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PCB-5555",
+            "description": "Printed circuit boards - Printed Circuit Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PCB-5556",
+            "description": "Printed circuit boards - FlexPrinted Circuit Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "HSG-8814",
+            "description": "Housings - Sleek Control Housing"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PCB-5557",
+            "description": "Printed circuit boards - Multi-Layer Circuit Board"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MEM-4008",
+            "description": "Memory - Enhanced Memory"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LU5T-15604-BJGE",
+            "description": "M313 - MODULE-BODY CONTROL - SyncMate Elite Body Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "I/O-5505",
+            "description": "I/O modules - SmartInput/Output Interface"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LJ6T-14G113-JA",
+            "description": "M305 - MODULE ELEC BODY - SmartBody HyperControl Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "I/O-5503",
+            "description": "I/O modules - FlexInput/Output Interface"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LJ6T-14F642-BK",
+            "description": "M305 - MODULE ELEC BODY - AutoMate ProElec Hub"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "JU5T-14C724-BA",
+            "description": "M305 - MODULE ELEC BODY - TechBody HyperSync Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "GB5T-14F680-DA",
+            "description": "M305 - MODULE ELEC BODY - BodyMate ProLink Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "I/O-5504",
+            "description": "I/O modules - Input/Output Interface"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "I/O-5502",
+            "description": "I/O modules - Input/Output Interface"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "PAC-7001",
+            "description": "Printed circuit boards - PowerSync ProAux Control"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "JU5T-14C708-CJ",
+            "description": "M305 - MODULE ELEC BODY - PowerGuard ProElec Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MEM-4005",
+            "description": "Memory - Rapid Memory"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MEM-4006",
+            "description": "Memory - High-Capacity Memory"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "HSG-8811",
+            "description": "Housings - Compact Housing"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MEM-4007",
+            "description": "Memory - Premium Memory"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "HSG-8813",
+            "description": "Housings - Premium Housing"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "GB5T-14F680-CA",
+            "description": "M305 - MODULE ELEC BODY - TechGuard EliteElec Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "HSG-8812",
+            "description": "Housings - Sleek Housing"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LX6A-12A650-DGA",
+            "description": "M300 - MODULE - ELECTRONIC ENGINE - TechDrive ProEngine Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MEM-4004",
+            "description": "Memory - Intelligent Memory"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MEM-4002",
+            "description": "Memory - HyperMemory Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "HSG-8810",
+            "description": "Housings - Sleek Housing"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "FCH-3001",
+            "description": "Communication modules - FuelFlex HyperControl Hub"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "HSG-8808",
+            "description": "Housings - FlexHousing"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "HSG-8809",
+            "description": "Housings - Durable Housing"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MEM-4003",
+            "description": "Memory - High-Capacity Memory"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MEM-4001",
+            "description": "Memory - Memory Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LX6A-12A650-BNA",
+            "description": "M300 - MODULE - ELECTRONIC ENGINE - FuelFlex HyperControl Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "HSG-8807",
+            "description": "Housings - Housing"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "CJ5T-14F680-TA",
+            "description": "M305 - MODULE ELEC BODY - PowerFlex ProControl Hub"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MAN-1007",
+            "description": "Documentation - User Manual"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MAN-1008",
+            "description": "Documentation - User Manual"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MAN-1006",
+            "description": "Documentation - User Manual"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LX6A-12A650-BMA",
+            "description": "M300 - MODULE - ELECTRONIC ENGINE - EnginePro EliteLink Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MAN-1005",
+            "description": "Documentation - User Manual"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "LX6A-12A650-BKA",
+            "description": "M300 - MODULE - ELECTRONIC ENGINE - PowerPulse ProEngine Control"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "MAN-1004",
+            "description": "Documentation - User Manual"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "L1UA-12A650-GA",
+            "description": "M300 - MODULE - ELECTRONIC ENGINE - IgnitionMaster HyperModule"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "L1UA-12A650-FA",
+            "description": "M300 - MODULE - ELECTRONIC ENGINE - TurboSync Elite Engine Unit"
+        },
+        "customAttributes": null,
+        "supplier": []
+    },
+    {
+        "product": {
+            "partNumber": "K1GA-12A650-DB",
+            "description": "M300 - MODULE - ELECTRONIC ENGINE - EngineLink ProControl Module"
+        },
+        "customAttributes": null,
+        "supplier": []
+    }
+]

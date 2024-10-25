@@ -1,0 +1,141 @@
+[
+    {
+        "additionalInfo": [
+            {
+                "name": "declaredUnit",
+                "value": "piece"
+            },
+            {
+                "name": "declaredUnitAmount",
+                "value": "10"
+            },
+            {
+                "name": "unitaryProductAmount",
+                "value": "1000.5"
+            },
+            {
+                "name": "specVersion",
+                "value": "1.0"
+            },
+            {
+                "name": "partialfullpcf",
+                "value": "Cradle-to-gate"
+            },
+            {
+                "name": "allocationRulesDescription",
+                "value": ""
+            },
+            {
+                "name": "allocationWasteIncineration",
+                "value": "cut-off"
+            },
+            {
+                "name": "pcfExcludingBiogenic",
+                "value": "24.3"
+            },
+            {
+                "name": "pcfincludingbiogenic ",
+                "value": ""
+            },
+            {
+                "name": "biogenicCarbonEmissionsOotherThanCo2",
+                "value": ""
+            },
+            {
+                "name": "biogenicCarbonWithdrawal",
+                "value": ""
+            },
+            {
+                "name": "carbonContentTotal",
+                "value": "181.6"
+            },
+            {
+                "name": "version",
+                "value": "1.0"
+            },
+            {
+                "name": "declaredUnitAmount",
+                "value": "10"
+            },
+            {
+                "name": "referencePeriodStart",
+                "value": "2024-09-11"
+            },
+            {
+                "name": "referencePeriodEnd",
+                "value": "2025-09-11"
+            },
+            {
+                "name": "fossilGhgEmissions",
+                "value": "1"
+            },
+            {
+                "name": "fossilCarbonContent",
+                "value": "9"
+            },
+            {
+                "name": "biogenicCarbonContent",
+                "value": "8"
+            },
+            {
+                "name": "characterizationFactors",
+                "value": "AR6"
+            },
+            {
+                "name": "crossSectoralStandardsUsed",
+                "value": "GHGProtocol"
+            },
+            {
+                "name": "packagingEmissionsIncluded",
+                "value": "false"
+            },
+            {
+                "name": "boundaryProcessDescription",
+                "value": ""
+            },
+            {
+                "name": "exemptedEmissionsPercent",
+                "value": "0.98"
+            },
+            {
+                "name": "exemptedEmissionsDescription",
+                "value": ""
+            },
+            {
+                "name": "nonBiogenicProductCarbonFootprint",
+                "value": ""
+            }
+        ],
+   		"id": "ceec22d6-3264-4325-8920-ad9b07057498",
+        "recordIdentifier": "679a0b41-ba40-4f18-850f-aa6d7246171e",
+        "status": "Active",
+        "validFrom": "2025-09-11",
+        "validTo": "2028-09-09T18:30:00.000Z",
+        "creationDate": null,
+        "score": "269c2b20-58ff-4b15-afa4-7437fcaf43c5",
+        "scoreCalculationMethod": "Supplier LCA",
+        "scorePrimaryDataRatio": 0.01,
+        "sourceType": "supplier",
+        "scoreVariance": null,
+        "supplier": {
+            "orgType": "SUPPLIER",
+            "name": "Murata Manufacturing Co",
+            "customAttributes": {
+                "BPNString": "BPNL000000001G5C"
+            }
+        },
+        "product": {
+            "partNumber": "CAP-7757",
+            "measurementUnit": "1000.0" ,
+            "description": "Piston XYZ"
+        },
+        "location": {
+            "locationIdentifier": "Flex - Singapore",
+            "geo": "Asia",
+            "geoLocation": null,
+            "country": "SGP",
+            "city": "Singapore",
+            "countyRegion": null
+        }
+    }
+]
